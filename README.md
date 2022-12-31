@@ -4,7 +4,7 @@
 - 🔭 I’m currently working studying in Full-stack developer
 - 🌱 I’m currently learning HTML/CSS
 - 📫 How to reach me: sarahurcezino@gmail.com
-- 😄 Pronouns: She/her
+- 😄 Pronouns: she/her
 
 ##
 
