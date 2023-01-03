@@ -10,7 +10,9 @@
 
 <div align="center">
   <a href="https://github.com/ursarah">
-  <img height="150em"src="https://github-readme-streak-stats.herokuapp.com/?user=ursarah&theme=radical&hide_border=true"/>  <br>
+  <img height="150em"src="https://github-readme-streak-stats.herokuapp.com/?user=ursarah&theme=radical&hide_border=true"/>  <br>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ursarah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursarah&layout=compact&langs_count=7&theme=radical"/>
   <img height="180em"src="https://github-profile-trophy.vercel.app/?username=ursarah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
 </div>
 
