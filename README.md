@@ -1,8 +1,10 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=50&duration=2000&pause=200&color=000000&vCenter=true&repeat=false&width=600&lines=Olá!!+%F0%9F%91%8B+Eu+sou+Sarah+%F0%9F%91%A9%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=50&duration=2000&pause=500&color=000000&vCenter=true&repeat=true&width=700&lines=Olá!!+%F0%9F%91%8B+Eu+sou+Sarah;++🥰;🧑‍💻)](https://git.io/typing-svg)
 <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/a8411158ebd1599317bd471b26adbfda.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
+## 🙋🏽‍♀️ Sobre mim:
 - 🔭 Atualmente estou cursando Desenvolvimento Full-stack
 - 🌱 Estou aprendendo os básicos de Front-End
+- 🧏🏽‍♀️ Sou uma pessoa bastante animada e criativa, sempre querendo aprender mais e mais.
 - 📫 Como me encontrar: sarahurcezino@gmail.com
 
 
