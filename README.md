@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/ursarah">
   <img height="150em"src="https://github-readme-streak-stats.herokuapp.com/?user=ursarah&theme=radical&hide_border=true"/><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ursarah&hide=html&layout=compact&theme=radical#gh-dark-mode-only&hide_border=false"/>
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ursarah&show_icons=true&theme=radical#gh-dark-mode-only&include_all_commits=false&count7_private=true"/>
 </div>
 
