@@ -16,10 +16,12 @@
   <img align="center" alt="Sarah-HTML" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">  &nbsp;  &nbsp;
   <img align="center" alt="Sarah-CSS" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   &nbsp;  &nbsp;
-  <img align="center" alt="Sarah-Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  &nbsp;  &nbsp;
   <img align="center" alt="Sarah-JS" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
   &nbsp;  &nbsp;
+  <img align="center" alt="Sarah-JS" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />  
+  &nbsp;  &nbsp;
+  <img align="center" alt="Sarah-Python" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  &nbsp;  &nbsp;  
   <img align="center" alt="Sarah-tailwin" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   &nbsp;  &nbsp;
   <img align="center" alt="Sarah-boots" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
