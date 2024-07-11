@@ -1,4 +1,4 @@
-# ([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=151515&random=false&width=435&lines=Ol%C3%A1+eu+sou+Sarah+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg))
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=151515&random=false&width=435&lines=Ol%C3%A1+eu+sou+Sarah+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/a8411158ebd1599317bd471b26adbfda.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 
 ## 🙋🏽‍♀️ Sobre mim:
